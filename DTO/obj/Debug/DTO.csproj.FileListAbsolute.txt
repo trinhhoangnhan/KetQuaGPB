@@ -1,0 +1,11 @@
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\DTO.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\DTO.pdb
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\System.Core.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\System.Data.DataSetExtensions.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\System.Data.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\System.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\System.Xml.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\bin\Debug\System.Xml.Linq.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT_2015\KetQuaGPB\DTO\obj\Debug\DTO.dll
+E:\PROJECT_2015\KetQuaGPB\DTO\obj\Debug\DTO.pdb
